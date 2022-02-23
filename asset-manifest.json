@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5a5c8d9.css",
-    "main.js": "/static/js/main.4c0ecd73.js",
+    "main.css": "/static/css/main.2154a746.css",
+    "main.js": "/static/js/main.fab61b62.js",
     "static/media/code.gif": "/static/media/code.14edb8998b050415f746.gif",
     "static/media/404.gif": "/static/media/404.4b2f33b49cfa604eb82d.gif",
     "static/media/Rules-And-Regulations.pdf": "/static/media/Rules-And-Regulations.5fa50e5aa6907041228a.pdf",
+    "static/media/cv-logo.png": "/static/media/cv-logo.632ae56dd923d8bb1ca0.png",
     "static/media/Terms-And-Conditions-CodeVista.pdf": "/static/media/Terms-And-Conditions-CodeVista.c84de622e109db7ff98a.pdf",
     "static/media/logo.png": "/static/media/logo.6765ff575d96ef08eb39.png",
     "static/media/logo-rgi.webp": "/static/media/logo-rgi.dc75eab8921a882d9865.webp",
     "static/media/award.png": "/static/media/award.7ab4ade5de4ea5dae4bd.png",
     "index.html": "/index.html",
-    "main.e5a5c8d9.css.map": "/static/css/main.e5a5c8d9.css.map",
-    "main.4c0ecd73.js.map": "/static/js/main.4c0ecd73.js.map"
+    "main.2154a746.css.map": "/static/css/main.2154a746.css.map",
+    "main.fab61b62.js.map": "/static/js/main.fab61b62.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5a5c8d9.css",
-    "static/js/main.4c0ecd73.js"
+    "static/css/main.2154a746.css",
+    "static/js/main.fab61b62.js"
   ]
 }
