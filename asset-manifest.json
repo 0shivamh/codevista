@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.2154a746.css",
-    "main.js": "/static/js/main.fab61b62.js",
+    "main.js": "/static/js/main.4e871d84.js",
     "static/media/code.gif": "/static/media/code.14edb8998b050415f746.gif",
     "static/media/404.gif": "/static/media/404.4b2f33b49cfa604eb82d.gif",
-    "static/media/Rules-And-Regulations.pdf": "/static/media/Rules-And-Regulations.5fa50e5aa6907041228a.pdf",
+    "static/media/Rules-And-Regulations.pdf": "/static/media/Rules-And-Regulations.f86d508ed6a7c14fa5a2.pdf",
     "static/media/cv-logo.png": "/static/media/cv-logo.632ae56dd923d8bb1ca0.png",
     "static/media/Terms-And-Conditions-CodeVista.pdf": "/static/media/Terms-And-Conditions-CodeVista.c84de622e109db7ff98a.pdf",
     "static/media/logo.png": "/static/media/logo.6765ff575d96ef08eb39.png",
@@ -12,10 +12,10 @@
     "static/media/award.png": "/static/media/award.7ab4ade5de4ea5dae4bd.png",
     "index.html": "/index.html",
     "main.2154a746.css.map": "/static/css/main.2154a746.css.map",
-    "main.fab61b62.js.map": "/static/js/main.fab61b62.js.map"
+    "main.4e871d84.js.map": "/static/js/main.4e871d84.js.map"
   },
   "entrypoints": [
     "static/css/main.2154a746.css",
-    "static/js/main.fab61b62.js"
+    "static/js/main.4e871d84.js"
   ]
 }
